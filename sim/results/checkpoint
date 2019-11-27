@@ -1,0 +1,4 @@
+model_checkpoint_path: "nn_model_buffer_60.ckpt"
+all_model_checkpoint_paths: "nn_model_buffer_20.ckpt"
+all_model_checkpoint_paths: "nn_model_buffer_40.ckpt"
+all_model_checkpoint_paths: "nn_model_buffer_60.ckpt"
